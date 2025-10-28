@@ -1,7 +1,7 @@
 # Tu sais quoi faire
 
 <p id="textToCopy">gtnyfp1qufYG-5_KUZ9NR5pzfRFT7XoxhEpKHVTYJ2Nle-Qn7sqquhxbaUHKmlN7aQmTNBtxenrlBNxmSSckRzqNFnbeFDeahSfCOZgfdmw</p>
-<button id="copyButton">Copiar</button>
+<button id="copyButton">Copier</button>
 
 <script>
 document.getElementById('copyButton').addEventListener('click', async () => {
